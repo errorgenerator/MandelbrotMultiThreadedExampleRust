@@ -1,10 +1,17 @@
 # Mandelbrot Multithreaded Example.
 
+<p align="center"><b>Output Example</b></p>
+<p align="center">
+    <img src="./mandel.png" width="400">
+</p>
+
+---
+
 This is a little example for multithreading in Rust. 
 
 You can find this and many more examples in the Book:
 
-**Programming in Rust - Fast, Safe Systems Development**
+[**Programming in Rust - Fast, Safe Systems Development**](https://www.ebooks.com/en-us/book/210313783/programming-rust/jim-blandy/)
 
 -by Jim Blandy, Jason Orendorff & Leonora F.S. Tindall
 
