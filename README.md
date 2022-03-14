@@ -27,3 +27,5 @@ Steps:
 3. navigate to the newly created ```./target/release/``` directory.
 4. launch the created ```mandelbrot``` executable with: 
     * ```./mandelbrot [OutputImageName].png widthxheight UpperLeftReal,UpperLeftImg LowerRightReal,LowerRightImg```
+
+5. to get a nice set right off the bat use: ```./mandelbrot mandelImage.png 1920x1080 -1.20,0.35 -1,0.20```, for example.
