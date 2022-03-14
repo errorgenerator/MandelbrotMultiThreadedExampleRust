@@ -9,7 +9,7 @@
 
 This is a little example for multithreading in Rust. 
 
-You can find this and many more examples in the Book:
+You can find this example, and many more examples in the Book:
 
 [**Programming in Rust - Fast, Safe Systems Development**](https://www.ebooks.com/en-us/book/210313783/programming-rust/jim-blandy/)
 
@@ -21,7 +21,7 @@ You can find this and many more examples in the Book:
 Requirements:
 * cargo, or better yet rustup installed.
 
-Steps
+Steps:
 1. clone this repository.
 2. in the repository root run: ```cargo build --relase```
 3. navigate to the newly created ```./target/release/``` directory.
